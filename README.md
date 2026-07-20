@@ -7,8 +7,8 @@
 </td>
 <td width="50%" valign="top">
 
-### Assila AIT SAID
-**Ingénieure en data**
+### Maya Petit
+**Ingénieure en IA**
 
 ---
 
