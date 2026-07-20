@@ -1,4 +1,3 @@
-![](ascii_reveal.gif)
 <table>
 <tr>
 <td width="50%">
